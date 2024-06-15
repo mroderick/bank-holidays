@@ -12,7 +12,6 @@ The `supported-countries.json` and `supported-years.json` are used for determini
 
 The data for ECB (EUR) comes from https://www.ecb.europa.eu/ecb/contacts/working-hours/html/index.en.html, chosing the dates marked with `*` (TARGET closing day).
 
-
 ## Usage
 
 ### Updating the `data` folder
