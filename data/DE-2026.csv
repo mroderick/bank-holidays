@@ -1,0 +1,20 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2026-01-01,Neujahr,New Year's Day,DE,False,True,,Public,
+2026-01-06,Heilige Drei Könige,Epiphany,DE,False,False,,Public,"DE-BW,DE-BY,DE-ST"
+2026-03-08,Internationaler Frauentag,International Women's Day,DE,False,False,,Public,"DE-BE,DE-MV"
+2026-04-03,Karfreitag,Good Friday,DE,False,True,,Public,
+2026-04-05,Ostersonntag,Easter Sunday,DE,False,False,,Public,DE-BB
+2026-04-06,Ostermontag,Easter Monday,DE,False,True,,Public,
+2026-05-01,Tag der Arbeit,Labour Day,DE,False,True,,Public,
+2026-05-14,Christi Himmelfahrt,Ascension Day,DE,False,True,,Public,
+2026-05-24,Pfingstsonntag,Pentecost,DE,False,False,,Public,"DE-BB,DE-HE"
+2026-05-25,Pfingstmontag,Whit Monday,DE,False,True,,Public,
+2026-06-04,Fronleichnam,Corpus Christi,DE,False,False,,Public,"DE-BW,DE-BY,DE-HE,DE-NW,DE-RP,DE-SL"
+2026-08-15,Mariä Himmelfahrt,Assumption Day,DE,False,False,,Public,DE-SL
+2026-09-20,Weltkindertag,World Children's Day,DE,False,False,,Public,DE-TH
+2026-10-03,Tag der Deutschen Einheit,German Unity Day,DE,False,True,,Public,
+2026-10-31,Reformationstag,Reformation Day,DE,False,False,,Public,"DE-BB,DE-MV,DE-SN,DE-ST,DE-TH,DE-HB,DE-HH,DE-NI,DE-SH"
+2026-11-01,Allerheiligen,All Saints' Day,DE,False,False,,Public,"DE-BW,DE-BY,DE-NW,DE-RP,DE-SL"
+2026-11-18,Buß- und Bettag,Repentance and Prayer Day,DE,False,False,,Public,DE-SN
+2026-12-25,Erster Weihnachtstag,Christmas Day,DE,False,True,,Public,
+2026-12-26,Zweiter Weihnachtstag,St. Stephen's Day,DE,False,True,,Public,

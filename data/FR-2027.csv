@@ -1,0 +1,12 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2027-01-01,Jour de l'an,New Year's Day,FR,False,True,,Public,
+2027-03-29,Lundi de Pâques,Easter Monday,FR,False,True,,Public,
+2027-05-01,Fête du Travail,Labour Day,FR,False,True,,Public,
+2027-05-06,Ascension,Ascension Day,FR,False,True,,Public,
+2027-05-08,Victoire 1945,Victory in Europe Day,FR,False,True,,Public,
+2027-05-17,Lundi de Pentecôte,Whit Monday,FR,False,True,,Public,
+2027-07-14,Fête nationale,Bastille Day,FR,False,True,,Public,
+2027-08-15,Assomption,Assumption Day,FR,False,True,,Public,
+2027-11-01,Toussaint,All Saints' Day,FR,False,True,,Public,
+2027-11-11,Armistice 1918,Armistice Day,FR,False,True,,Public,
+2027-12-25,Noël,Christmas Day,FR,False,True,,Public,

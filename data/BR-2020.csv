@@ -1,0 +1,15 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2020-01-01,Confraternização Universal,New Year's Day,BR,False,True,,Public,
+2020-02-24,Carnaval,Carnival,BR,False,True,,"Bank, Optional",
+2020-02-25,Carnaval,Carnival,BR,False,True,,"Bank, Optional",
+2020-04-10,Sexta-feira Santa,Good Friday,BR,False,True,,Public,
+2020-04-12,Domingo de Páscoa,Easter Sunday,BR,False,True,,Public,
+2020-04-21,Dia de Tiradentes,Tiradentes,BR,False,True,,Public,
+2020-05-01,Dia do Trabalhador,Labour Day,BR,False,True,,Public,
+2020-06-11,Corpus Christi,Corpus Christi,BR,False,True,,Public,
+2020-07-09,Revolução Constitucionalista de 1932,Constitutionalist Revolution of 1932,BR,False,False,,Public,BR-SP
+2020-09-07,Dia da Independência,Independence Day,BR,False,True,,Public,
+2020-10-12,Nossa Senhora Aparecida,Our Lady of Aparecida,BR,False,True,,Public,
+2020-11-02,Dia de Finados,All Souls' Day,BR,False,True,,Public,
+2020-11-15,Proclamação da República,Republic Proclamation Day,BR,False,True,,Public,
+2020-12-25,Natal,Christmas Day,BR,False,True,,Public,

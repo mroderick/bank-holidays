@@ -1,0 +1,13 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2028-01-01,Første nyttårsdag,New Year's Day,SJ,False,True,,Public,
+2028-04-13,Skjærtorsdag,Maundy Thursday,SJ,False,True,,Public,
+2028-04-14,Langfredag,Good Friday,SJ,False,True,,Public,
+2028-04-16,Første påskedag,Easter Sunday,SJ,False,True,,Public,
+2028-04-17,Andre påskedag,Easter Monday,SJ,False,True,,Public,
+2028-05-01,Første mai,May Day,SJ,False,True,,Public,
+2028-05-17,Syttende mai,Constitution Day,SJ,False,True,,Public,
+2028-05-25,Kristi himmelfartsdag,Ascension Day,SJ,False,True,,Public,
+2028-06-04,Første pinsedag,Pentecost,SJ,False,True,,Public,
+2028-06-05,Andre pinsedag,Whit Monday,SJ,False,True,,Public,
+2028-12-25,Første juledag,Christmas Day,SJ,False,True,,Public,
+2028-12-26,Andre juledag,Second day of Christmas,SJ,False,True,,Public,

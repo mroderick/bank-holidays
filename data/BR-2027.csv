@@ -1,0 +1,15 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2027-01-01,Confraternização Universal,New Year's Day,BR,False,True,,Public,
+2027-02-08,Carnaval,Carnival,BR,False,True,,"Bank, Optional",
+2027-02-09,Carnaval,Carnival,BR,False,True,,"Bank, Optional",
+2027-03-26,Sexta-feira Santa,Good Friday,BR,False,True,,Public,
+2027-03-28,Domingo de Páscoa,Easter Sunday,BR,False,True,,Public,
+2027-04-21,Dia de Tiradentes,Tiradentes,BR,False,True,,Public,
+2027-05-01,Dia do Trabalhador,Labour Day,BR,False,True,,Public,
+2027-05-27,Corpus Christi,Corpus Christi,BR,False,True,,Public,
+2027-07-09,Revolução Constitucionalista de 1932,Constitutionalist Revolution of 1932,BR,False,False,,Public,BR-SP
+2027-09-07,Dia da Independência,Independence Day,BR,False,True,,Public,
+2027-10-12,Nossa Senhora Aparecida,Our Lady of Aparecida,BR,False,True,,Public,
+2027-11-02,Dia de Finados,All Souls' Day,BR,False,True,,Public,
+2027-11-15,Proclamação da República,Republic Proclamation Day,BR,False,True,,Public,
+2027-12-25,Natal,Christmas Day,BR,False,True,,Public,

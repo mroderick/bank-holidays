@@ -1,0 +1,23 @@
+{
+  "name": "hols",
+  "version": "1.0.0",
+  "description": "A library for quickly answering the question on whether or not a date is a public and/or bank holiday",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "prettier": "prettier . --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Roderick (morgan@roderick.dk)",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "eslint": "^9.5.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.4.0",
+    "prettier": "^3.3.2"
+  }
+}

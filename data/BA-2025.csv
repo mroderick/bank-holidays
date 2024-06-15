@@ -1,0 +1,16 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2025-01-01,Nova Godina,New Year's Day,BA,False,True,,Public,
+2025-01-02,Nova Godina,New Year's Day,BA,False,True,,Public,
+2025-01-06,Božić (za pravoslavce),Christmas Eve (Orthodox),BA,False,False,,Public,BA-SRP
+2025-01-07,Božić (za pravoslavce),Christmas Day (Orthodox),BA,False,False,,Public,BA-SRP
+2025-03-01,Dan nezavisnosti Bosne i Hercegovine,Idependence day,BA,False,False,,Public,BA-BIH
+2025-04-18,Veliki petak,Good Friday,BA,False,False,,Public,BA-SRP
+2025-04-20,Vaskrs (Uskrs),Easter Sunday,BA,False,False,,Public,BA-SRP
+2025-04-21,Vaskrsni (Uskrsni) ponedeljak,Easter Monday,BA,False,False,,Public,BA-SRP
+2025-05-01,Praznik rada,May Day / International Workers' Day,BA,False,True,,Public,
+2025-05-02,Praznik rada,May Day / International Workers' Day,BA,False,True,,Public,
+2025-05-09,Dan pobjede nad fašizmom,Victory Day over fascism,BA,False,False,,Public,BA-SRP
+2025-11-21,Dan uspostavljanja Opšteg okvirnog sporazuma za mir u BiH,Day of the establishment of the General Framework Agreement for Peace in BiH,BA,False,False,,Public,BA-SRP
+2025-11-25,Dan državnosti Bosne i Hercegovine,Statehood Day,BA,False,False,,Public,BA-BIH
+2025-12-24,Božić (za rimokatolike),Christmas Eve (Roman Catholic),BA,False,False,,Public,BA-BIH
+2025-12-25,Božić (za rimokatolike),Christmas Day (Roman Catholic),BA,False,False,,Public,BA-BIH

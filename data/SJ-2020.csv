@@ -1,0 +1,13 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2020-01-01,Første nyttårsdag,New Year's Day,SJ,False,True,,Public,
+2020-04-09,Skjærtorsdag,Maundy Thursday,SJ,False,True,,Public,
+2020-04-10,Langfredag,Good Friday,SJ,False,True,,Public,
+2020-04-12,Første påskedag,Easter Sunday,SJ,False,True,,Public,
+2020-04-13,Andre påskedag,Easter Monday,SJ,False,True,,Public,
+2020-05-01,Første mai,May Day,SJ,False,True,,Public,
+2020-05-17,Syttende mai,Constitution Day,SJ,False,True,,Public,
+2020-05-21,Kristi himmelfartsdag,Ascension Day,SJ,False,True,,Public,
+2020-05-31,Første pinsedag,Pentecost,SJ,False,True,,Public,
+2020-06-01,Andre pinsedag,Whit Monday,SJ,False,True,,Public,
+2020-12-25,Første juledag,Christmas Day,SJ,False,True,,Public,
+2020-12-26,Andre juledag,Second day of Christmas,SJ,False,True,,Public,

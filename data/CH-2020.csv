@@ -1,0 +1,20 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2020-01-01,Neujahr,New Year's Day,CH,False,True,,Public,
+2020-01-02,Berchtoldstag,St. Berchtold's Day,CH,False,False,,Public,"CH-ZH,CH-BE,CH-LU,CH-OW,CH-GL,CH-ZG,CH-FR,CH-SO,CH-SH,CH-TG,CH-VD,CH-NE,CH-GE,CH-JU"
+2020-01-06,Heilige Drei Könige,Epiphany,CH,False,False,,Public,"CH-UR,CH-SZ,CH-GR,CH-TI"
+2020-03-19,Josefstag,Saint Joseph's Day,CH,False,False,,Public,"CH-LU,CH-UR,CH-SZ,CH-NW,CH-ZG,CH-GR,CH-TI,CH-VS"
+2020-04-10,Karfreitag,Good Friday,CH,False,False,,Public,"CH-ZH,CH-BE,CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-GL,CH-ZG,CH-FR,CH-SO,CH-BS,CH-BL,CH-SH,CH-AR,CH-AI,CH-SG,CH-GR,CH-AG,CH-TG,CH-VD,CH-NE,CH-GE,CH-JU"
+2020-04-13,Ostermontag,Easter Monday,CH,False,False,,Public,"CH-ZH,CH-BE,CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-GL,CH-ZG,CH-FR,CH-SO,CH-BS,CH-BL,CH-SH,CH-AR,CH-AI,CH-SG,CH-GR,CH-AG,CH-TG,CH-TI,CH-VD,CH-NE,CH-GE,CH-JU"
+2020-05-01,Tag der Arbeit,Labour Day,CH,False,False,,Public,"CH-ZH,CH-FR,CH-SO,CH-BS,CH-BL,CH-SH,CH-AG,CH-TG,CH-TI,CH-NE,CH-JU"
+2020-05-21,Auffahrt,Ascension Day,CH,False,True,,Public,
+2020-06-01,Pfingstmontag,Whit Monday,CH,False,False,,Public,"CH-ZH,CH-BE,CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-GL,CH-ZG,CH-FR,CH-BS,CH-BL,CH-SH,CH-AR,CH-AI,CH-SG,CH-GR,CH-TG,CH-TI,CH-VD,CH-NE,CH-GE,CH-JU"
+2020-06-11,Fronleichnam,Corpus Christi,CH,False,False,,Public,"CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-ZG,CH-AI,CH-TI,CH-VS,CH-JU"
+2020-08-01,Bundesfeier,Swiss National Day,CH,False,True,,Public,
+2020-08-15,Maria Himmelfahrt,Assumption of the Virgin Mary,CH,False,False,,Public,"CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-ZG,CH-FR,CH-SO,CH-BL,CH-AI,CH-GR,CH-AG,CH-TI,CH-VS,CH-JU"
+2020-09-10,Jeûne genevois,Geneva Prayday,CH,False,False,,Public,CH-GE
+2020-09-20,"Eidgenössischer Dank-, Buss- und Bettag",Federal Day of Thanksgiving,CH,False,False,,Public,"CH-ZH,CH-BE,CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-GL,CH-ZG,CH-FR,CH-SO,CH-BS,CH-BL,CH-SH,CH-AR,CH-AI,CH-SG,CH-GR,CH-AG,CH-TG,CH-TI,CH-VD,CH-VS,CH-NE,CH-JU"
+2020-09-21,Bettagsmontag,Federal Fast Monday,CH,False,False,,Public,CH-VD
+2020-11-01,Allerheiligen,All Saints' Day,CH,False,False,,Public,"CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-GL,CH-ZG,CH-FR,CH-SO,CH-AI,CH-SG,CH-GR,CH-AG,CH-TI,CH-VS,CH-JU"
+2020-12-08,Mariä Empfängnis,Immaculate Conception,CH,False,False,,Public,"CH-LU,CH-UR,CH-SZ,CH-OW,CH-NW,CH-ZG,CH-FR,CH-SO,CH-AI,CH-GR,CH-AG,CH-TI,CH-VS"
+2020-12-25,Weihnachten,Christmas Day,CH,False,True,,Public,
+2020-12-26,Stephanstag,St. Stephen's Day,CH,False,False,,Public,"CH-AG,CH-AI,CH-AR,CH-BL,CH-BS,CH-BE,CH-FR,CH-GL,CH-GR,CH-LU,CH-NW,CH-OW,CH-SG,CH-SH,CH-SZ,CH-SO,CH-TG,CH-TI,CH-UR,CH-ZG,CH-ZH"

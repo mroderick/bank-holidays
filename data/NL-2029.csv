@@ -1,0 +1,12 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2029-01-01,Nieuwjaarsdag,New Year's Day,NL,False,True,,Public,
+2029-03-30,Goede Vrijdag,Good Friday,NL,False,True,,Public,
+2029-04-01,Eerste Paasdag,Easter Sunday,NL,False,True,,Public,
+2029-04-02,Tweede Paasdag,Easter Monday,NL,False,True,,Public,
+2029-04-27,Koningsdag,King's Day,NL,False,True,,Public,
+2029-05-05,Bevrijdingsdag,Liberation Day,NL,False,True,,"School, Authorities",
+2029-05-10,Hemelvaartsdag,Ascension Day,NL,False,True,,Public,
+2029-05-20,Eerste Pinksterdag,Pentecost,NL,False,True,,Public,
+2029-05-21,Tweede Pinksterdag,Whit Monday,NL,False,True,,Public,
+2029-12-25,Eerste Kerstdag,Christmas Day,NL,False,True,,Public,
+2029-12-26,Tweede Kerstdag,St. Stephen's Day,NL,False,True,,Public,

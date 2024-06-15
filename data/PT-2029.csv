@@ -1,0 +1,18 @@
+Date,LocalName,Name,CountryCode,Fixed,Global,LaunchYear,Type,Counties
+2029-01-01,Ano Novo,New Year's Day,PT,False,True,,Public,
+2029-02-13,Carnaval,Carnival,PT,False,True,,Optional,
+2029-03-30,Sexta-feira Santa,Good Friday,PT,False,True,,Public,
+2029-04-01,Domingo de Páscoa,Easter Sunday,PT,False,True,,Public,
+2029-04-25,Dia da Liberdade,Freedom Day,PT,False,True,,Public,
+2029-05-01,Dia do Trabalhador,Labour Day,PT,False,True,,Public,
+2029-05-31,Corpo de Deus,Corpus Christi,PT,False,True,,Public,
+2029-06-01,Dia dos Açores,Azores Day,PT,False,False,,Public,PT-20
+2029-06-10,"Dia de Portugal, de Camões e das Comunidades Portuguesas",National Day,PT,False,True,,Public,
+2029-07-01,Dia da Madeira,Madeira Day,PT,False,False,,Public,PT-30
+2029-08-15,Assunção de Nossa Senhora,Assumption Day,PT,False,True,,Public,
+2029-10-05,Implantação da República,Republic Day,PT,False,True,,Public,
+2029-11-01,Dia de Todos-os-Santos,All Saints Day,PT,False,True,,Public,
+2029-12-01,Restauração da Independência,Restoration of Independence,PT,False,True,,Public,
+2029-12-08,Imaculada Conceição,Immaculate Conception,PT,False,True,,Public,
+2029-12-25,Natal,Christmas Day,PT,False,True,,Public,
+2029-12-26,Primeira Oitava,St. Stephen's Day,PT,False,False,,Public,PT-30
