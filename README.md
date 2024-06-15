@@ -22,9 +22,7 @@ The data for ECB (EUR) comes from https://www.ecb.europa.eu/ecb/contacts/working
 
 ## Usage
 
-### Updating the `data` folder
-
-The data
+### Updating datasets
 
 ```sh
 node lib/download-data.js
