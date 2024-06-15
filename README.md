@@ -4,6 +4,14 @@ A library for containing all known bank/public holidays per country.
 
 The intended use of the library, is to be able to figure out if a given day is considered bank holiday, i.e. will banks process transactions or not.
 
+## TODO and notes
+
+A "Public" holiday in the Nager dataset is only considered a bank holiday, when it is a "global" bank holiday. Otherwise, we assume that the central bank is open for business.
+
+- [] Prepare one JSON file (`by-currency.json`) listing all _supported_ currencies, including EUR, like `ECB/data.json`, where there are holidays and supported years
+- [] Prepare one JSON file (`by-country.json`) with all supported countries, like `ECB/data.json`, where there are holidays per country and supported years
+- [] Tests of the JavaScript implementation, maybe https://node-tap.org or Mocha? Fast-check?
+
 ## Data
 
 The country specific data in `data/` is scraped from the public website of [Nager.Date][0] (an [MIT licensed open source project][1]).
