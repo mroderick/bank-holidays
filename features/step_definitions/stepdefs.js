@@ -1,26 +1,26 @@
 const assert = require('assert');
-const { Given, When, Then } = require('@cucumber/cucumber');
+const { defineParameterType, Given, When, Then } = require('@cucumber/cucumber');
 
-function isItFriday(today) {
-  if (today === "Friday") {
-    return "TGIF";
-  } else {
-    return "Nope";
-  }
-}
+const isBankHolidayByCountry = require("../../lib/is-bank-holiday-by-country");
 
-Given('today is Sunday', function () {
-  this.today = 'Sunday';
+defineParameterType({
+  name: "boolean",
+  regexp: /true|false/,
+  transformer: (s) => s === "true" ? true : false
 });
 
-When('I ask whether it\'s Friday yet', function () {
-  this.actualAnswer = isItFriday(this.today);
+Given('country code is {string}', function (countryCode) {
+  this.countryCode = countryCode;
 });
 
-Then('I should be told {string}', function (expectedAnswer) {
-  assert.strictEqual(this.actualAnswer, expectedAnswer);
+Given("date is {string}", function(date) {
+  this.date = date
 });
 
-Given('today is Friday', function () {
-  this.today = 'Friday';
+When("I ask whether it's a bank holiday", function () {
+  this.actual = isBankHolidayByCountry(this.countryCode, this.date);
+});
+
+Then('I should be told {boolean}', function (expected) {
+  assert.strictEqual(this.actual, expected);
 });
