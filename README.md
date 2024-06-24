@@ -1,4 +1,6 @@
-# Hols
+# bank-holidays
+
+**NOTE: This is not even alpha yet, you should not use it!**
 
 A library for containing all known bank/public holidays per country.
 
