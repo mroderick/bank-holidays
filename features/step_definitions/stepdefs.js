@@ -18,9 +18,21 @@ Given("date is {string}", function(date) {
 });
 
 When("I ask whether it's a bank holiday", function () {
-  this.actual = isBankHolidayByCountry(this.countryCode, this.date);
+  try {
+    this.actual = isBankHolidayByCountry(this.countryCode, this.date);
+  } catch (error) {
+    this.actualError = error;
+  }
 });
 
 Then('I should be told {boolean}', function (expected) {
   assert.strictEqual(this.actual, expected);
+});
+
+Then('I should receive an error {string}', function (expectedErrorMessage) {
+  assert.strictEqual(this.actualError.message, expectedErrorMessage)
+});
+
+Then('I should receive an error like {string}', function (expected) {
+  assert.match(this.actualError.message, new RegExp(expected));
 });
