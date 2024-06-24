@@ -10,9 +10,9 @@ The intended use of the library, is to be able to figure out if a given day is c
 
 A "Public" holiday in the Nager dataset is only considered a bank holiday, when it is a "global" bank holiday. Otherwise, we assume that the central bank is open for business.
 
-- [] Prepare one JSON file (`by-currency.json`) listing all _supported_ currencies, including EUR, like `ECB/data.json`, where there are holidays and supported years
-- [] Prepare one JSON file (`by-country.json`) with all supported countries, like `ECB/data.json`, where there are holidays per country and supported years
-- [] Tests of the JavaScript implementation, maybe https://node-tap.org or Mocha? Fast-check?
+- [ ] Prepare one JSON file (`by-currency.json`) listing all _supported_ currencies, including EUR, like `ECB/data.json`, where there are holidays and supported years
+- [ ] Prepare one JSON file (`by-country.json`) with all supported countries, like `ECB/data.json`, where there are holidays per country and supported years
+- [ ] Tests of the JavaScript implementation, maybe https://node-tap.org or Mocha? Fast-check?
 
 ## Data
 
