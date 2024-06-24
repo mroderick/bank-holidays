@@ -20,17 +20,19 @@ Feature: Is it a bank holiday in a country?
 
   Examples:
     | countrycode    | date         | answer |
-    | DK             | 2019-12-20   | false  |
-    | DK             | 2019-12-25   | true   |
-    | DK             | 2020-12-25   | true   |
-    | DK             | 2021-12-25   | true   |
-    | DK             | 2022-12-25   | true   |
-    | DK             | 2023-12-25   | true   |
+    | DE             | 2024-01-01   | true   |
+    | DK             | 2024-01-01   | true   |
+    | DK             | 2024-01-02   | false  |
+    | DK             | 2024-03-28   | true   |
+    | DK             | 2024-03-29   | true   |
+    | DK             | 2024-03-31   | true   |
+    | DK             | 2024-04-01   | true   |
+    | DK             | 2024-05-09   | true   |
+    | DK             | 2024-05-10   | true   |
+    | DK             | 2024-05-19   | true   |
+    | DK             | 2024-05-20   | true   |
+    | DK             | 2024-06-05   | true   |
+    | DK             | 2024-12-24   | true   |
     | DK             | 2024-12-25   | true   |
-    | DK             | 2025-12-25   | true   |
-    | DK             | 2026-12-25   | true   |
-    | DK             | 2027-12-25   | true   |
-    | DK             | 2028-12-25   | true   |
-    | DK             | 2029-12-25   | true   |
-    | DE             | 2024-12-25   | true   |
-    | SE             | 2024-12-25   | true   |
+    | DK             | 2024-12-26   | true   |
+    | DK             | 2024-12-31   | true   |
