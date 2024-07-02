@@ -1,6 +1,6 @@
 module.exports = {
   default: {
-    import: ["features/step_definitions/*.js"],
+    import: ["cucumber-step-definitions/*.js"],
     paths: ["commons/features"],
   }
 }

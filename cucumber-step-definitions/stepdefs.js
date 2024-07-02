@@ -1,7 +1,7 @@
 const assert = require('assert');
 const { defineParameterType, Given, When, Then } = require('@cucumber/cucumber');
 
-const isBankHolidayByCountry = require("../../lib/is-bank-holiday-by-country");
+const isBankHolidayByCountry = require("../lib/is-bank-holiday-by-country");
 
 defineParameterType({
   name: "boolean",
