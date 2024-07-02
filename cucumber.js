@@ -1,3 +1,6 @@
 module.exports = {
-  default: `--format-options '{"snippetInterface": "synchronous"}'`
+  default: {
+    import: ["features/step_definitions/*.js"],
+    paths: ["commons/features"],
+  }
 }
