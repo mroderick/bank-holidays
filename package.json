@@ -1,5 +1,5 @@
 {
-  "name": "bank-holidays",
+  "name": "bank-holidays-js",
   "version": "0.1.0",
   "description": "A library for determining if a date is a bank holiday",
   "main": "index.js",
