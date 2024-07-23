@@ -9,16 +9,18 @@
   "scripts": {
     "lint": "eslint .",
     "prettier": "prettier . --write",
-    "test": "cucumber-js"
+    "test": "mocha"
   },
   "author": "Morgan Roderick (morgan@roderick.dk)",
   "license": "ISC",
   "devDependencies": {
     "@cucumber/cucumber": "^10.8.0",
     "@eslint/js": "^9.5.0",
+    "@sinonjs/referee": "^11.0.1",
     "eslint": "^9.5.0",
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.4.0",
+    "mocha": "^10.7.0",
     "prettier": "^3.3.2"
   }
 }
