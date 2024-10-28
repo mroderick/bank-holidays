@@ -1,5 +1,6 @@
 const { describe, it } = require("mocha");
 const { assert } = require("@sinonjs/referee");
+const difference = require('set.prototype.difference');
 
 const {
   countries,
@@ -16,7 +17,7 @@ describe("isBankHolidayByCountry", function () {
 
   describe("unsupported countries", function () {
     const unsupportedCountries = Array.from(
-      allCountryCodes.difference(supportedCountries),
+      difference(allCountryCodes, supportedCountries),
     );
 
     unsupportedCountries.forEach((c) => {
@@ -51,7 +52,7 @@ describe("isBankHolidayByCountry", function () {
     const first = supportedYears[0];
     const last = supportedYears[supportedYears.length - 1];
     const allYears = new Set(arrayRange(first - 10, last + 10, 1));
-    const unsupportedYears = Array.from(allYears.difference(supportedYearsSet));
+    const unsupportedYears = Array.from(difference(allYears, supportedYearsSet));
     const country = Object.keys(countries)[0];
 
     unsupportedYears.forEach((y) => {

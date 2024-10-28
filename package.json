@@ -21,9 +21,10 @@
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.4.0",
     "mocha": "^10.7.0",
-    "prettier": "^3.3.2"
+    "prettier": "^3.3.2",
+    "set.prototype.difference": "^1.1.6"
   },
-  "engines" : {
-    "node" : ">=22.0.0"
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
